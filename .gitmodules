@@ -7,3 +7,6 @@
 [submodule "cjk-auto-spacing"]
 	path = cjk-auto-spacing
 	url = https://github.com/yuex/cjk-auto-spacing.git
+[submodule "pelican_dynamic"]
+	path = pelican_dynamic
+	url = https://github.com/drewbo/pelican_dynamic.git
